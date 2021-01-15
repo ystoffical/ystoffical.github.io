@@ -1,7 +1,3 @@
-layout: page
-title: "右小天工作室"
-permalink: /URL-PATH/
-
 ## 欢迎来到右小天工作室
 
 目前这个网址刚刚建立，由GitHub提供。
